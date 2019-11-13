@@ -1,2 +1,2 @@
-# Python Calismalari
+#some python codes written by BYK
 Just for fun
