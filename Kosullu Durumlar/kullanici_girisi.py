@@ -1,7 +1,7 @@
 print("*******************************\nKullanici girisi\n*******************************")
 
 username = 'byk'
-password = 'xoraxjusttry'
+password = 'hellostranger:)'
 
 username_1 = input("Kullanici adinizi giriniz: ")
 password_1 = input("Sifreyi giriniz: ")
