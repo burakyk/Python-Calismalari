@@ -1,2 +1,2 @@
-#some python codes written by BYK
-Just for fun
+some python codes written by BYK
+
