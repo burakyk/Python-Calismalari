@@ -1,2 +1,2 @@
-# Python-Calismalari
+# Python Calismalari
 Just for fun
